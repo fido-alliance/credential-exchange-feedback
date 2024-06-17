@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Completing this forms indicates agreement to the CLA[https://github.com/fido-alliance/credential-exchange-feedback/blob/main/FIDO_CLA.md]
+        Completing this forms indicates agreement to the [CLA](https://github.com/fido-alliance/credential-exchange-feedback/blob/main/FIDO_CLA.md)
   - type: textarea
     id: summary
     validations:
