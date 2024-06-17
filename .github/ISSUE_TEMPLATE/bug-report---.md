@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41E Bug report"
-about: Create a report to help us improve. Completing this forms indicates agreement to the CLA- [https://github.com/fido-alliance/credential-exchange-feedback/blob/main/FIDO_CLA.md]
+about: Create a report to help us improve. Completing this forms indicates agreement to the [CLA](https://github.com/fido-alliance/credential-exchange-feedback/blob/main/FIDO_CLA.md)
 
 ---
 
