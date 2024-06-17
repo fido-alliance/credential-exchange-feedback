@@ -1,10 +1,14 @@
 name: "💡 New Content Suggestion"
 description: >-
-  Suggest new feature or a change to an existing feature. Completing this forms indicates agreement to the CLA[https://github.com/fido-alliance/credential-exchange-feedback/blob/main/FIDO_CLA.md]
+  Suggest new feature or a change to an existing feature. 
 labels:
   - New-Feature
   - needs-triage
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Completing this forms indicates agreement to the CLA[https://github.com/fido-alliance/credential-exchange-feedback/blob/main/FIDO_CLA.md]
   - type: textarea
     id: summary
     validations:
@@ -52,13 +56,6 @@ body:
     validations:
       required: false
     attributes:
-      label: Related Articles
+      label: Related Content
       description: >-
-        Provide a list of links to the documentation page(s) that are related to this request. Use
-        the markdown list syntax for each item. If the entire article is relevant, just link to the
-        permalink for its source or the live page. If only a section of the article is relevant, use
-        the permalink to the lines for the most relevant section of the source or the anchor link to
-        the nearest header for the relevant content instead of the page itself.
-      placeholder: |
-        - https://fidoalliance.org/specs/cx/cxf-v1.0-wd-20240522.html
-        - https://fidoalliance.org/specs/cx/cxp-v1.0-wd-20240522.html
+        Provide a list of links to related content or examples.
