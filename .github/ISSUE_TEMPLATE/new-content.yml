@@ -39,11 +39,11 @@ body:
         Choose the type or types of documentation required.
       multiple: true
       options:
-        - Best Practice
-        - User Journey
-        - Protocol Deep Dive
-        - FAQ Item
-        - Demo
+        - Protocol
+        - Format
+        - New Credential Type
+        - User story/journey
+        - Security Issue
         - Other / Unknown
   - type: input
     id: title
