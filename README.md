@@ -1,5 +1,5 @@
-# FIDO Credential Exchange public forum
-The purpose of the repo is to provide a place for implementers of the FIDO Credential Exchange specifications. 
+# FIDO Credential Exchange Feedback
+The repo provides a place for implementers of the FIDO Credential Exchange specifications to provide feedback to the spec developers. 
 - [Credential Exchange Protocol](https://fidoalliance.org/specs/cx/cxp-v1.0-wd-20240522.html)
 - [Credential Exchange Format](https://fidoalliance.org/specs/cx/cxp-v1.0-wd-20240522.html)
 
