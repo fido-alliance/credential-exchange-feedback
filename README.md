@@ -1,7 +1,7 @@
 # FIDO Credential Exchange Feedback
 The repo provides a place for implementers of the FIDO Credential Exchange specifications to provide feedback to the spec developers. 
 - [Credential Exchange Protocol](https://fidoalliance.org/specs/cx/cxp-v1.0-wd-20241003.html)
-- [Credential Exchange Format](https://fidoalliance.org/specs/cx/cxf-v1.0-wd-20241003.html)
+- [Credential Exchange Format](https://fidoalliance.org/specs/cx/cxf-v1.0-rd-20250313.html)
 
 You can create issues here to let us know about any [bugs](https://github.com/fido-alliance/credential-exchange-feedback/issues/new?assignees=&labels=&projects=&template=bug-report---.md) you find and for any [feature requests](https://github.com/fido-alliance/credential-exchange-feedback/issues/new?assignees=&labels=New-Feature%2Cneeds-triage&projects=&template=new-content.yml).
 
